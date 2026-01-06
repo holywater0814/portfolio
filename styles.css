@@ -93,7 +93,7 @@
   .dark-mode .reach-me a {
     color: #87ceeb;
   }
-   */
+   
   /* Toggle button styles */
    .toggle-button {
     position: absolute;
@@ -124,7 +124,7 @@
   
   .toggle-button.active:before {
     transform: translateX(26px);
-  } */
+  } 
   
   /* Responsive styles */
    @media (max-width: 768px) {
